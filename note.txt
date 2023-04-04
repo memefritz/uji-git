@@ -1,2 +1,4 @@
 hai
-line 2
+function penjumlahan 1+1
+
+function pengurangan 1-1
